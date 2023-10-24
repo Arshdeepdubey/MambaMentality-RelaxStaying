@@ -6,4 +6,5 @@ import com.fil.relaxstaying.models.Customer;
 
 public interface CustomerDao extends JpaRepository<Customer, Integer>{
 
+	//this interface will not contain any code.
 }
